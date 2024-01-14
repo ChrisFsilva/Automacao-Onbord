@@ -1,0 +1,74 @@
+<!DOCTYPE html></p>
+<html lang="pt-br">
+    <head>
+    <meta charset="UTF-8">
+        <style>
+            #customers {
+                font-family: Arial, Helvetica, sans-serif;
+                border-collapse: collapse;
+                width: 800px;
+            }
+            
+            #customers, #customers th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            .uppercase {
+                text-transform: uppercase;
+            }
+            
+            #customers th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: center;
+                background-color: gray;
+                color: white;
+            }
+            h1{
+                color: gray;
+                font-size: 20px;
+            }
+            table{
+                align-items: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="display: flex; justify-content: center; padding-bottom: 100px" align="center">
+            <table id="customers" style="box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);">
+                <thead>
+                    <tr style="text-align: center;">
+                        <th style="background-color: gray; padding: 15px; padding-top: 30px; padding-bottom: 20px;">
+                            <img src="https://i.pinimg.com/originals/80/25/70/8025709ab16966ece41430614e34f711.png" width=20% height=20%>
+                            <h1 style="line-height: 125%;">ANÚNCIO DE ADMISSÃO - COLABORADOR: <span style="color: #f0e85b; class="uppercase">@{outputs('Alimentar_Sharepoint_Geral')?['body/Title']}</span></h1>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="text-align: right; padding-right: 30px; padding-left: 30px; background-color: #646464; color: #f0e85b; font-size: 12px;"><span>Gestão de Field Services</span></td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 30px; text-align: left; line-height: 180%;">
+                            <p>Conforme informação distribuída via RH, esta prevista a admissão do colaboradorador(a) <strong class="uppercase">@{outputs('Alimentar_Sharepoint_Geral')?['body/Title']}</strong> na data de data <strong class="uppercase">@{triggerOutputs()?['body/DatadeInicio']}</strong> para a diretoria de <strong class="uppercase">@{outputs('Alimentar_Sharepoint_Geral')?['body/Departamento']}</strong> para a função de <strong class="uppercase">@{outputs('Alimentar_Sharepoint_Geral')?['body/Fun_x00e7__x00e3_o']}</strong>, a unidade de atuação do colaborador será  @{triggerOutputs()?['body/Lota_x00e7__x00e3_o']}</p>
+                            <p style='text-align:center'> O equipamento do colaborador deverá ser preparado com antecedência e deverá ficar disponível para a entrega na data anunciada!</p>
+                            <p style='text-align:center'>Em caso de duvidas ou problemas para realizar a entrega do equipamento na data prevista por favor procurar por Christopher.Silva@vtal.com via teams ou e-mail.</p>
+                            <p style='text-align:center'><strong class="uppercase">Contamos com a sua colaboração para que colaborador seja bem recebido em seu primeiro dia conosco.<strong></p>
+                        </td>
+                    </tr>
+                        <td style="padding-bottom: 20px;">
+                </tbody>
+                <tfoot>
+                    <tr style="background-color: Gray; color: white;">
+                        <td style="padding-top: 10px; padding-bottom: 10px; text-align: center; ">
+                            <span style="font-size: 10px; color: #f0e85b;">GESTÃO DE FIELD SERVICE |</span>
+                            <span style="font-size: 10px; color: #f0e85b;">V.TAL - REDE NEUTRA DE TELECOMUNICAÇÕES S.A |</span>
+                            <span style="font-size: 10px; color: #f0e85b;">TECNOLOGIA DE INFRA E OPERAÇÕES DE TI </span>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </body>
+</html>

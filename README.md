@@ -71,22 +71,41 @@ GupyIntegration.js: Script JavaScript para integração com a API da Gupy
 #### Funcionalidades
 ```bash
 
-Coleta de Informações: Recebe dados do novo funcionário diretamente da Gupy via API.
-Integração com Gupy: Utiliza a API JavaScript para importar dados dos novos funcionários da plataforma Gupy.
-Configuração de Acessos: Concede acesso a sistemas e grupos necessários.
-Envio de E-mails Personalizados: Envia e-mails de boas-vindas personalizados usando programação.
-Tarefas no SharePoint: Cria tarefas no SharePoint para o acompanhamento do processo de onboarding.
-Configuração de Reuniões: Agenda reuniões de introdução no Microsoft Tea
-
-Guia do Usuário:
-Integração com Gupy: A API JavaScript coleta automaticamente os dados do novo funcionário da plataforma Gupy.
-Automatização Iniciada: O fluxo de Power Automate é disparado automaticamente ao receber novos dados da Gupy.
-Monitorar Tarefas: O responsável pelo onboarding pode monitorar as tarefas no SharePoint.
-Receber Notificações: O novo funcionário e os responsáveis recebem notificações por e-mail conforme o processo avança.
+Coleta de Informações:
+  Recebe dados do novo funcionário diretamente da Gupy via API.
+  
+Integração com Gupy:
+  Utiliza a API JavaScript para importar dados dos novos funcionários da plataforma Gupy.
+  
+Configuração de Acessos:
+  Concede acesso a sistemas e grupos necessários.
+  
+Envio de E-mails Personalizados:
+  Envia e-mails de boas-vindas personalizados usando programação.
+  
+Tarefas no SharePoint:
+  Cria tarefas no SharePoint para o acompanhamento do processo de onboarding.
+  
+Configuração de Reuniões:
+  Agenda reuniões de introdução no Microsoft Teams
 
 ```
 
+### Guia do Usuário:
 
+``` bash
+Integração com Gupy:
+  A API JavaScript coleta automaticamente os dados do novo funcionário da plataforma Gupy.
+
+Automatização Iniciada:
+  O fluxo de Power Automate é disparado automaticamente ao receber novos dados da Gupy.
+
+Monitorar Tarefas:
+  O responsável pelo onboarding pode monitorar as tarefas no SharePoint.
+
+Receber Notificações:
+  O novo funcionário e os responsáveis recebem notificações por e-mail conforme o processo avança.
+```
 
 ## 🛠 Tecnologias
 

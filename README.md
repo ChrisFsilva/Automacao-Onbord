@@ -62,7 +62,7 @@ GupyIntegration.js: Script JavaScript para integração com a API da Gupy
 - Licença Power Automate.
 - Configuração do SharePoint e Microsoft Teams.
 - API key da Gupy para integração.
-<b>Instalação:<b>
+<b>Instalação:</b>
 - Certifique-se de que sua conta Microsoft 365 tem permissões de administrador.
 - Crie um site no SharePoint para armazenar documentos de onboarding e listas de tarefas.
 - Obtenha e configure a API key da Gupy para comunicação com a plataforma de recrutamento.

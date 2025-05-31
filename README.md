@@ -41,10 +41,10 @@ O layout da aplicação está disponível no pinteres:
 ```bash
 
 Componentes Principais:
-AssignAccessFlow: Fluxo para concessão de acesso a sistemas e grupos.
-SendWelcomeEmailFlow: Fluxo para envio de e-mails de boas-vindas personalizados.
-ScheduleMeetingsFlow: Fluxo para agendamento de reuniões no Teams.
-GupyIntegration.js: Script JavaScript para integração com a API da Gupy
+-AssignAccessFlow: Fluxo para concessão de acesso a sistemas e grupos.
+-SendWelcomeEmailFlow: Fluxo para envio de e-mails de boas-vindas personalizados.
+-ScheduleMeetingsFlow: Fluxo para agendamento de reuniões no Teams.
+-GupyIntegration.js: Script JavaScript para integração com a API da Gupy
 
 ```
 ---

@@ -40,7 +40,7 @@ O layout da aplicação está disponível no LinkedIn:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://pin.it/31BRStNkC" />
+  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://i.pinimg.com/1200x/ab/48/46/ab48462bf56c2444d846a3efe38ce9f1.jpg" />
 </p>
 
 Componentes Principais:

@@ -36,7 +36,7 @@ JavaScript API da Gupy: Integração com a plataforma de recrutamento Gupy para 
 O layout da aplicação está disponível no LinkedIn:
 
 <a href="#">
-  <img alt="Automação do Onboard By Christopher Silva" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
+  <img alt="Automação do Onboard By Christopher Silva" src="https://pin.it/31BRStNkC">
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">

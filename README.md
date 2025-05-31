@@ -33,14 +33,9 @@ JavaScript API da Gupy: Integração com a plataforma de recrutamento Gupy para 
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no LinkedIn:
-
-<a href="#">
-  <img alt="Automação do Onboard By Christopher Silva" src="https://pin.it/31BRStNkC">
-</a>
-
+O layout da aplicação está disponível no pinteres:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://i.pinimg.com/1200x/ab/48/46/ab48462bf56c2444d846a3efe38ce9f1.jpg" />
+  <img alt="Automação do Onboard By Christopher Silva" title="#onboard-automacao" src="https://i.pinimg.com/1200x/ab/48/46/ab48462bf56c2444d846a3efe38ce9f1.jpg" />
 </p>
 
 Componentes Principais:

@@ -40,10 +40,7 @@ O layout da aplicação está disponível no LinkedIn:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQFhWADyr73FMA/profile-treasury-image-shrink_1920_1920/0/1704298991106?e=1706036400&v=beta&t=zrYm5i4Sa4wA7v-5fx5w2HYSv32kGRqRlR5zyR3Lc-w" />
-</p>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQH4VuA7hxM1uw/profile-treasury-image-shrink_800_800/0/1704298974179?e=1706036400&v=beta&t=lgkdphgNnvWQiqKF-svpa_8oziyZEqA5-AEYfHvhqz8" />
+  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://pin.it/31BRStNkC" />
 </p>
 
 Componentes Principais:

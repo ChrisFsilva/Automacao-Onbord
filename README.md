@@ -37,14 +37,16 @@ O layout da aplicação está disponível no pinteres:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;width="10"">
   <img alt="Automação do Onboard By Christopher Silva" title="#onboard-automacao" src="https://i.pinimg.com/1200x/ab/48/46/ab48462bf56c2444d846a3efe38ce9f1.jpg" style="width:500px;/>
 </p>
+	  
 ```bash
+
 Componentes Principais:
 AssignAccessFlow: Fluxo para concessão de acesso a sistemas e grupos.
 SendWelcomeEmailFlow: Fluxo para envio de e-mails de boas-vindas personalizados.
 ScheduleMeetingsFlow: Fluxo para agendamento de reuniões no Teams.
 GupyIntegration.js: Script JavaScript para integração com a API da Gupy
 
-	  ```
+```
 ---
 
 ## 🚀 Como executar o projeto

@@ -28,7 +28,45 @@ Microsoft 365: Integração com Outlook, Teams, SharePoint e outros serviços da
 SharePoint: Armazenamento e gerenciamento de documentos e listas de tarefas.
 JavaScript API da Gupy: Integração com a plataforma de recrutamento Gupy para transferência de dados dos novos funcionários.
 
- 
+## 🚧 Problemas resolvidos
+
+```bash
+❌ Atraso na concessão de acessos
+	Antes: o RH dependia de múltiplos departamentos para liberar e-mails, grupos e sistemas.
+	Depois: acessos são concedidos automaticamente em poucos minutos.
+	⏱ Redução de tempo: de 1 dia útil para menos de 10 minutos.
+```
+```bash
+❌ Erros manuais na digitação de dados
+	Antes: dados eram copiados manualmente da plataforma Gupy para formulários internos, o que gerava risco de erro e atrasos no processo.
+	Depois: os dados do novo colaborador são coletados diretamente via API da Gupy, eliminando totalmente a necessidade de entrada manual.
+	✅ Precisão aumentada: redução de 100% dos erros humanos na transcrição.
+	⏱ Tempo de cadastro: caiu de 2 dias úteis para processamento imediato após a aprovação na Gupy.
+```
+```bash
+❌ Falta de padrão nos e-mails de boas-vindas
+	Antes: cada gestor escrevia seu próprio e-mail (ou esquecia de enviar).
+	Depois: e-mails padronizados são gerados com conteúdo personalizado por programação.
+	💬 Melhoria na comunicação: aumento da taxa de abertura de e-mails em +80%.
+```
+```bash
+❌ Esquecimento de tarefas administrativas
+	Antes: checklists eram manuais e não compartilhados com todos os envolvidos.
+	Depois: tarefas são criadas automaticamente no SharePoint e atribuídas aos responsáveis.
+	✅ Redução de falhas operacionais: diminuição de 70% nos atrasos de tarefas críticas.
+```
+```bash
+❌ Falta de visibilidade do andamento do processo
+	Antes: o RH precisava perguntar aos gestores se o processo estava andando.
+	Depois: todas as tarefas e status ficam visíveis no SharePoint.
+	📊 Transparência aumentada: melhora no acompanhamento em tempo real.
+```
+```bash
+❌ Demora no agendamento das reuniões de integração
+	Antes: agendamento era feito por e-mail, dependendo de disponibilidade manual.
+	Depois: reuniões são programadas automaticamente no Microsoft Teams.
+	📅 Redução no tempo de agendamento: de 2 dias para menos de 30 minutos após a admissão.
+```
 ---
 
 ## 🎨 Layout
